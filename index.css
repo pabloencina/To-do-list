@@ -1,0 +1,81 @@
+#inputPrincipal{
+    width: 450px;
+    height: 50px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 18px;
+    border: 0;
+}
+#itemInput{
+    width: 350px;
+    height: 30px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 18px;
+    border: 0;
+}
+#botonAgregar{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color:rgb(255, 6, 46) ;
+    color: white;
+    border: 0;
+    cursor: pointer;
+}
+.botonAgregar:hover{
+    opacity: 0.7;
+}
+body{
+    background-color: rgb(32, 32, 81);
+}
+.boton{
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+}
+
+.boton :hover{
+    color: rgb(255, 6, 46)
+}
+
+h1{
+    color: white;
+}
+
+.input-div{
+    width: 60%;
+    margin: auto;
+}
+
+.items {
+    width: 350px;
+    height: 30px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    border: 0;
+    color: rgb(32, 32, 81);
+}
+
+li{
+    list-style: none;
+}
